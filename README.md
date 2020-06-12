@@ -4,6 +4,7 @@ Simple python project to debug problems related to internet
 ## Packages
 
 speedTest: pip install speedtest-cli
+
 pythonPing: pip install pythonping
 
 ## Usage
